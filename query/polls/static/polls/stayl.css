@@ -1,6 +1,6 @@
 li a {
-    color: black;
+    color: rgb(210, 12, 12);
 }
 body {
-    background: yellow url("images/background.png") no-repeat;
+    background: rgb(236, 236, 6) url("images/background.png") no-repeat;
 }
